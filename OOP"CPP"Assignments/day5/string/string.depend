@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730892437 source:c:\users\alaas\downloads\c++\day4\string\main.cpp
+	<iostream>
+	<cstring>
+
